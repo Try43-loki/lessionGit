@@ -1,2 +1,2 @@
 ## Hello Git!
-## This is the develop branch stay up to date with the latest version
+Hello git repository from my friends and ownerships.
